@@ -9,6 +9,7 @@ class DetailActivity : AppCompatActivity() {
 
     private lateinit var description: String
 
+    // Function onCreate
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_detail)

@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var rvDaftarList: RecyclerView
     private val list = ArrayList<DaftarList>()
 
+    // Function onCreate
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
@@ -23,7 +24,7 @@ class MainActivity : AppCompatActivity() {
         showRecyclerList()
     }
 
-    // Inisialisasi fitur About
+    // Function onCreateOptionsMenu (About)
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
         menuInflater.inflate(R.menu.menu_main, menu)
         val profileItem = menu?.findItem(R.id.about)
@@ -34,6 +35,7 @@ class MainActivity : AppCompatActivity() {
         return super.onCreateOptionsMenu(menu)
     }
 
+    // Function getListDaftarList
     private fun getListDaftarList(): ArrayList<DaftarList> {
         val dataName = resources.getStringArray(R.array.data_name)
         val dataDescription = resources.getStringArray(R.array.data_description)
