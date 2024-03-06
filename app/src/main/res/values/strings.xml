@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Daftar Novel Serial Bumi</string>
+    <string name="heroes_name">Nama Novel Serial Bumi</string>
+    <string name="description">Deskripsi</string>
+    <string name="nama">Nama : Aaz Zazri Nugraha</string>
+    <string name="email">E-mail : a228d4ky4229@bangkit.academy</string>
+    <string name="no_hp">No HP : 082115400776</string>
+
+    <string-array name="data_name">
+        <item>Bumi</item>
+        <item>Bulan</item>
+        <item>Matahari</item>
+        <item>Bintang</item>
+        <item>Ceros dan Batozar</item>
+        <item>Komet</item>
+        <item>Komet Minor</item>
+        <item>Selena</item>
+        <item>Nebula</item>
+        <item>Si Putih</item>
+        <item>Bibi Gill</item>
+        <item>Sagaras</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Novel Bumi adalah buku pertama dari serial Bumi yang diterbitkan pertama kali oleh Penerbit Gramedia Pustaka Utama pada tahun 2014 lalu. Di novel pertama ini tentang awal dari kisah seorang gadis remaja SMA bernama Raib dapat bertemu dengan sosok kurus tinggi, yakni Tamus.</item>
+        <item>Novel kedua dari serial Bumi, yaitu Bulan. Novel ini pertama kali diterbitkan pada tahun 2015 oleh Penerbit Gramedia Pustaka Utama. Novel setebal 440 halaman ini, kembali mengisahkan terkait pengalaman dari 3 sahabat, yaitu Raib, Seli, dan Ali yang berpetualang dan menjelajahi klan lain, yaitu klan Matahari. Mereka bertiga pergi ke klan Matahari guna menyatukan klan Matahari dengan klan Bulan.</item>
+        <item>Novel Matahari merupakan novel ketiga dari serial Bumi yang pertama kali terbit pada tahun 2016 oleh Penerbit Gramedia Pustaka Utama. Novel dengan tebal 390 halaman ini, bukan lagi mengisahkan terkait penjelajahan di klan Matahari, melainkan mengisahkan rasa penasaran Ali terhadap berjelajah ke rahim Bumi sehingga mendapati eksistensi klan lain, yaitu klan Bintang.</item>
+        <item>Pada novel ini, Ali, Raib, dan Seli masih melanjutkan misinya di klan Bintang. Akan tetapi, yang menjadi permasalahan mereka, yaitu mereka bertiga harus mendapatkan dan melakukan pencegahan pada pasak klan Bumi yang akan segera meledak. Dalam memenuhi tujuan dan misi tersebut, Ali, Raib, dan Seli dihadapkan pada berbagai macam pertarungan dan rintangan yang rumit.</item>
+        <item>Novel Ceros dan Batozar merupakan novel ke-4 ½ dari serial Bumi. Novel Ceros dan Batozar menceritakan kisah yang cenderung berbeda dari sebelumnya. Hal itu karena bukan lagi mengisahkan penjelajahan ketiga sahabat, yakni Raib, Ali, dan Seli di klan Bumi, klan Bulan, maupun klan Matahari. Akan tetapi, mengisahkan dua makhluk berbeda yang sempat mereka jumpai di dalam petualangan di dunia paralel.</item>
+        <item>Novel Komet adalah novel kelima dari serial Bumi, terbit pada tahun Mei 2018 lalu oleh Penerbit Gramedia Pustaka Utama. Novel dengan tebal 384 halaman ini, masih melanjutkan kisah petualangan dan perjalan ketiga sahabat, yaitu Ali, Raib, dan Seli. Mereka bertiga mendapati sebuah pulau dengan berbagai tumbuhan aneh.</item>
+        <item>Novel keenam dari serial Bumi, yakni bertajuk Komet Minor. Novel dengan tebal 376 halaman ini, pertama kali diterbitkan pada tahun 2019 lalu. Buku keenam serial Bumi ini mengisahkan petualangan dan perjalanan Raib, Seli, serta Ali dalam menghadapi tokoh antagonis utama, yakni si Tanpa Mahkota di dunia paralel.</item>
+        <item>Urutan novel ketujuh dari serial Bumi, yakni Selena. Buku setebal 368 halaman ini, berhasil diterbitkan pada Maret tahun 2020 lalu. Bagi kalian yang sudah membaca novel serial Bumi ini, tentu kerap menemui dan tidak asing dengan nama ini. Yap, Miss Selena atau Miss Keriting. Pada novel ini, tidak mengisahkan perjalanan Ali, Seli, dan Raib. Sesuai dengan judulnya maka novel ini hendak menceritakan terkait Miss Selena yang merupakan guru Matematika di sekolah mereka.</item>
+        <item>Nebula adalah novel kedelapan dari serial dunia paralel yang memang terbit berbarengan dengan novel Selena, yakni pada tahun Mei 2020 lalu. Novel ini mengisahkan kehidupan Miss Selena selama berada di Akademi Bayangan Tingkat Tinggi (ABTT). Selena tidak sendiri, di dalam novel ini akan ada Mata dan Tazk yang andil dalam kisah Selena.</item>
+        <item>Novel urutan kesembilan dari serial Dunia Paralel, yakni bertajuk Si Putih. Novel ini berhasil diterbitkan pada tahun 2021. Bagi pecinta serial Bumi dan mengikuti dari buku pertama, pastinya kalian tahu dengan hewan kesayangan milik Raib, yakni Si Putih. Sesuai dengan judulnya, novel ini tentu akan membahas Si Putih, kucing kesayangan Raib. Kucing yang pada saat itu berada di depan pintu rumahnya sebagai hadiah hari kelahiran Raib. Akan tetapi, siapa yang mengira bahwa Si Putih mempunyai ceritanya tersendiri akan masa lalunya yang tak kalah menarik.</item>
+        <item>Novel Lumpu adalah novel kesepuluh dari serial Bumi. Dalam novel Lumpu ini, Ali, Raib dan Seli hendak berpetualang kembali dengan kapsul terbang, yakni ILY yang telah diciptakan oleh Ali si genius. Tujuannya adalah mereka akan mengunjungi klan Nebula guna menyelamatkan Miss Selena dari Lumpu.</item>
+        <item>Novel ke-12 dari serial Bumi yaitu Bibi Gill. Novel ini yang tentu lebih berfokus kepada perjalanan Bibi Gill yang adalah seorang ahli Pengintai di dalam dunia parallel. Sama halnya dengan buku Selena, melalui novel ini kita juga tentunya akan mengenal lebih jauh lagi tentang sosok dari seorang Bibi Gill dan bagaimana perjalanan hidupnya sebelum menjadi seorang dosen di ABTT. Bagaimana menjadi petarung terkuat di dunia paralel? Dengan latihan panjang dan pengorbanan. Termasuk kehilangan dan kesedihan. Inilah kisah tentang Bibi Gill, yang sejak kecil berusaha mengalahkan ‘monster’ dalam hidupnya.</item>
+        <item>Pada novel sebelumnya dalam serial Bumi, Tere Liye telah menuliskan cerita menarik mengenai orang tua dari tokoh Raib di kedua novelnya yang berjudul “Selena” dan “Nebula”. Namun, Tere Liye belum menuliskan cerita tentang orang tua tokoh lainnya, yakni Ali, yang menimbulkan rasa penasaran pembaca. Ke mana orang tua Ali? Apakah orang tua Ali masih hidup? Dari klan mana kah Ali? Pada 384 halaman novel SagaraS ini, semua pertanyaan dan rasa penasaran tersebut akhirnya akan terjawab. Akhirnya. Siapa orang tua Ali dijawab di buku ini.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/bumi</item>
+        <item>@drawable/bulan</item>
+        <item>@drawable/matahari</item>
+        <item>@drawable/bintang</item>
+        <item>@drawable/ceros_dan_batozar</item>
+        <item>@drawable/komet</item>
+        <item>@drawable/komet_minor</item>
+        <item>@drawable/selena</item>
+        <item>@drawable/nebula</item>
+        <item>@drawable/si_putih</item>
+        <item>@drawable/bibi_gill</item>
+        <item>@drawable/sagaras</item>
+    </integer-array>
+</resources>
