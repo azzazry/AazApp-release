@@ -17,6 +17,7 @@
         <item>Selena</item>
         <item>Nebula</item>
         <item>Si Putih</item>
+        <item>Lumpu</item>
         <item>Bibi Gill</item>
         <item>Sagaras</item>
     </string-array>
@@ -33,7 +34,7 @@
         <item>Nebula adalah novel kedelapan dari serial dunia paralel yang memang terbit berbarengan dengan novel Selena, yakni pada tahun Mei 2020 lalu. Novel ini mengisahkan kehidupan Miss Selena selama berada di Akademi Bayangan Tingkat Tinggi (ABTT). Selena tidak sendiri, di dalam novel ini akan ada Mata dan Tazk yang andil dalam kisah Selena.</item>
         <item>Novel urutan kesembilan dari serial Dunia Paralel, yakni bertajuk Si Putih. Novel ini berhasil diterbitkan pada tahun 2021. Bagi pecinta serial Bumi dan mengikuti dari buku pertama, pastinya kalian tahu dengan hewan kesayangan milik Raib, yakni Si Putih. Sesuai dengan judulnya, novel ini tentu akan membahas Si Putih, kucing kesayangan Raib. Kucing yang pada saat itu berada di depan pintu rumahnya sebagai hadiah hari kelahiran Raib. Akan tetapi, siapa yang mengira bahwa Si Putih mempunyai ceritanya tersendiri akan masa lalunya yang tak kalah menarik.</item>
         <item>Novel Lumpu adalah novel kesepuluh dari serial Bumi. Dalam novel Lumpu ini, Ali, Raib dan Seli hendak berpetualang kembali dengan kapsul terbang, yakni ILY yang telah diciptakan oleh Ali si genius. Tujuannya adalah mereka akan mengunjungi klan Nebula guna menyelamatkan Miss Selena dari Lumpu.</item>
-        <item>Novel ke-12 dari serial Bumi yaitu Bibi Gill. Novel ini yang tentu lebih berfokus kepada perjalanan Bibi Gill yang adalah seorang ahli Pengintai di dalam dunia parallel. Sama halnya dengan buku Selena, melalui novel ini kita juga tentunya akan mengenal lebih jauh lagi tentang sosok dari seorang Bibi Gill dan bagaimana perjalanan hidupnya sebelum menjadi seorang dosen di ABTT. Bagaimana menjadi petarung terkuat di dunia paralel? Dengan latihan panjang dan pengorbanan. Termasuk kehilangan dan kesedihan. Inilah kisah tentang Bibi Gill, yang sejak kecil berusaha mengalahkan ‘monster’ dalam hidupnya.</item>
+        <item>Novel ke-11 dari serial Bumi yaitu Bibi Gill. Novel ini yang tentu lebih berfokus kepada perjalanan Bibi Gill yang adalah seorang ahli Pengintai di dalam dunia parallel. Sama halnya dengan buku Selena, melalui novel ini kita juga tentunya akan mengenal lebih jauh lagi tentang sosok dari seorang Bibi Gill dan bagaimana perjalanan hidupnya sebelum menjadi seorang dosen di ABTT. Bagaimana menjadi petarung terkuat di dunia paralel? Dengan latihan panjang dan pengorbanan. Termasuk kehilangan dan kesedihan. Inilah kisah tentang Bibi Gill, yang sejak kecil berusaha mengalahkan ‘monster’ dalam hidupnya.</item>
         <item>Pada novel sebelumnya dalam serial Bumi, Tere Liye telah menuliskan cerita menarik mengenai orang tua dari tokoh Raib di kedua novelnya yang berjudul “Selena” dan “Nebula”. Namun, Tere Liye belum menuliskan cerita tentang orang tua tokoh lainnya, yakni Ali, yang menimbulkan rasa penasaran pembaca. Ke mana orang tua Ali? Apakah orang tua Ali masih hidup? Dari klan mana kah Ali? Pada 384 halaman novel SagaraS ini, semua pertanyaan dan rasa penasaran tersebut akhirnya akan terjawab. Akhirnya. Siapa orang tua Ali dijawab di buku ini.</item>
     </string-array>
 
@@ -48,6 +49,7 @@
         <item>@drawable/selena</item>
         <item>@drawable/nebula</item>
         <item>@drawable/si_putih</item>
+        <item>@drawable/lumpu</item>
         <item>@drawable/bibi_gill</item>
         <item>@drawable/sagaras</item>
     </integer-array>
